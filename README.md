@@ -7,12 +7,19 @@
 
 
 
-### Hi there 👋
+### ML/AI Engineer
+
+### Interest
+- 
+
 
 <br></br>
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ian_na">
+
 
 
 <!--
